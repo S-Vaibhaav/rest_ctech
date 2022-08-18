@@ -1,5 +1,5 @@
 (function() {
-    const elemPlayButton = document.querySelector("#play-button");
+    const elemPlayButton = document.querySelector("#play-btn");
     const elemVoice = document.querySelector("#voice");
     const elemText = document.querySelector("#text");
 
