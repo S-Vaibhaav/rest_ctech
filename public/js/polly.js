@@ -7,7 +7,7 @@
         console.log(elemVoice.value);
         console.log(elemText.value);
         
-        let url = "https://u74c2txuf1.execute-api.us-east-1.amazonaws.com/default/polly";
+        let url = "https://vzw75cxfid.execute-api.us-east-1.amazonaws.com/default/Polly";
         url += "?voice=" + encodeURIComponent(elemVoice.value);
         url += "&text=" + encodeURIComponent(elemText.value);
 
